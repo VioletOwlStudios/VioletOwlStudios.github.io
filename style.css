@@ -13,12 +13,19 @@ body {
 
 .Welcome_Message{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size:150px;
+    font-size:50px;
     text-align: center;
 
     color:blueviolet;
     stroke: white;
     stroke-width: 5px;
+}
+.site_work{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    color: red;
+    
 }
 
 .Welcome{
