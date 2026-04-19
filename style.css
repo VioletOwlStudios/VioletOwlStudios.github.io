@@ -1,0 +1,25 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Makes layout sizing much easier */
+}
+
+body {
+    font-family: Arial, sans-serif; /* Sets a clean default font */
+    line-height: 1.6;
+}
+
+.Welcome_Message{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+
+    color: violet;
+}
+
+.Welcome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}
