@@ -8,6 +8,7 @@
 body {
     font-family: Arial, sans-serif; /* Sets a clean default font */
     line-height: 1.6;
+    background-color: darkslategray;
 }
 
 .Welcome_Message{
@@ -15,7 +16,9 @@ body {
     font-size: large;
     text-align: center;
 
-    color: violet;
+    color:blueviolet;
+    stroke: white;
+    stroke-width: 5px;
 }
 
 .Welcome{
