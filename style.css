@@ -11,7 +11,7 @@ body {
     background-image:url(Siteimages/Background.png);
     height: auto;
     width: auto;
-    background-color: rgb(116, 114, 114);
+    background-color: rgb(33, 33, 33);
 }
 .Error{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -34,7 +34,8 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: rgba(184, 184, 185, 0.614);
+    border-radius: 20px;
+    background-color: rgba(227, 227, 229, 0.614);
     font-family: Arial, Helvetica, sans-serif;
 }
 .PageHeader{
